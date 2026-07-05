@@ -190,7 +190,7 @@ for f in corpus[:100]:
 for f in corpus[100:]:
     assert f["language"] == "java"
 
-print("✓ Все проверки пройдены")
+print("Все проверки пройдены")
 ```
 
 Скрипт проверяет:
