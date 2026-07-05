@@ -1,0 +1,21 @@
+# Виртуальное окружение
+.venv/
+venv/
+env/
+
+# Временные файлы Jupyter
+.ipynb_checkpoints/
+*.ipynb~ 
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Логи и прочее
+*.log
+.DS_Store
+
+# Если вы не хотите версионировать данные (JSON, CSV) – раскомментируйте:
+# *.json
+# *.csv
